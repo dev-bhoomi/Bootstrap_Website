@@ -12,7 +12,7 @@ The website adjusts smoothly to different devices, ensuring it looks good on des
  It uses Bootstrap's ready-to-use elements like navigation menus, buttons, and cards, making it quick and easy to create a modern-looking website.
 
 - #### Easy Development:
-- Bootstrap simplifies the process of building responsive layouts, saving time and effort in designing and coding custom styles.
+ Bootstrap simplifies the process of building responsive layouts, saving time and effort in designing and coding custom styles.
 
 ## Languages/Library
 ### Languages
