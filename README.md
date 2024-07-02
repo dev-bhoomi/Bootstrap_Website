@@ -1,7 +1,26 @@
 
-#  Bootstrap  Website Project
+# Bootstrap  Website Project
 
 This project is a simple website built using the Bootstrap framework for creating responsive websites. Bootstrap provides a collection of tools and components that streamline the web development process.
+
+## Features
+
+- #### Responsive Design: 
+The website adjusts smoothly to different devices, ensuring it looks good on desktops, tablets, and phones.
+
+- #### Ready-Made Components:
+ It uses Bootstrap's ready-to-use elements like navigation menus, buttons, and cards, making it quick and easy to create a modern-looking website.
+
+- #### Easy Development: Bootstrap simplifies the process of building responsive layouts, saving time and effort in designing and coding custom styles.
+
+## Languages/Library
+### Languages
+- Bootstrap
+- HTML
+- CSS
+
+
+
 ## Demo
 
 Insert gif or link to demo
@@ -14,9 +33,39 @@ Insert gif or link to demo
 
 
 
+
+
+## How to Setup
+Hey there! Just a friendly reminder to follow these steps when working on a React project:
+
+1. First, clone the project.
+2. Lastly,run index.js
+
+Hope that helps!
+## How to deploy
+[![Watch the video](https://img.youtube.com/vi/mdO18zv3oGQ/0.jpg)]
+
+# Hi, I'm dev-bhoomi! 👋
+
+
+## 🛠 Skills
+Javascript, HTML, CSS, bootstrap and react.js
+
+
+## 🔗 Links
+https://github.com/dev-bhoomi
+
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Alt Text]
+
+
+## Used By
+
+This project is used by the following companies:
+
+- Company 1
+- Company 2
 
 
 ## Appendix
@@ -56,15 +105,6 @@ Any additional information goes here
 #### add(num1, num2)
 
 Takes two numbers and returns the sum.
-
-
-## Features
-
-- Responsive Design: The expanding image cards work smoothly on different devices, adapting to various screen sizes.
-
-- Interactive Experience: Click on a card, and the image elegantly expands for a closer view. Click on another, and the previous one collapses.
-
-- Easy Customization: You can easily change the images inside each card. Customize the content to showcase your favorite pictures.
 
 
 ## Authors
@@ -125,16 +165,6 @@ Please adhere to this project's `code of conduct`.
 If you have any feedback, please reach out to us at fake@fake.com
 
 
-# Hi, I'm dev-bhoomi! 👋
-
-
-## 🔗 Links
-https://github.com/dev-bhoomi
-
-## 🛠 Skills
-Javascript, HTML, CSS, bootstrap and react.js
-
-
 ## Installation
 
 Install my-project with npm
@@ -144,3 +174,5 @@ Install my-project with npm
   cd my-project
 ```
     
+## How to deploy
+[![Watch the video](https://img.youtube.com/vi/mdO18zv3oGQ/0.jpg)]
